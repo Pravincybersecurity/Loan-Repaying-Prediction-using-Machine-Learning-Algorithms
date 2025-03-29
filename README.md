@@ -1,4 +1,4 @@
-# Loan Repaying Prediction using Machine Learning Algorithms
+# Loan Prediction using Machine Learning Algorithms
 
 ## 📌 About
 Prediction of loan repayment status (repayers and non-repayers) based on **120 customer attributes** using machine learning algorithms. The project analyzes various demographic and financial factors to determine loan approval outcomes.
@@ -20,11 +20,11 @@ Prediction of Loan amount repayers and non-repayers based on the 120 attributes 
 ## 📂 Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sathyacy2205/Loan-Prediction-using-Machine-Learning-Algorithms.git
+   git clone https://github.com/Pravincybersecurity/Loan-Repaying-Prediction-using-Machine-Learning-Algorithms.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd Loan-Prediction-using-Machine-Learning-Algorithms
+   cd Loan-Repaying-Prediction-using-Machine-Learning-Algorithms
    ```
 3. **Install dependencies:**
    ```bash
