@@ -32,7 +32,7 @@ Prediction of Loan amount repayers and non-repayers based on the 120 attributes 
    ```
 4. **Run the model script:**
    ```bash
-   python Loan.py
+   python Repayloan.py
    ```
 
 ## 📊 Results
