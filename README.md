@@ -1,4 +1,4 @@
-# Loan Prediction using Machine Learning Algorithms
+# Loan Repaying Prediction using Machine Learning Algorithms
 
 ## 📌 About
 Prediction of loan repayment status (repayers and non-repayers) based on **120 customer attributes** using machine learning algorithms. The project analyzes various demographic and financial factors to determine loan approval outcomes.
@@ -42,7 +42,7 @@ The model evaluates loan repayment predictions based on classification metrics s
 Contributions are welcome! Feel free to fork this repository and submit pull requests for improvements.
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the Apache-2.0 License.
 
 ---
 Let me know if you need any modifications! 🚀
